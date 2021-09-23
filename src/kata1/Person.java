@@ -13,7 +13,6 @@ public class Person {
         this.birthdate = birthdate;
     }
 
-    
      public String getName() {
         return name;
     }

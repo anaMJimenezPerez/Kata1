@@ -8,5 +8,4 @@ public class Kata1 {
         Person person = new Person("Blas", new Date(49,8,24));
         System.out.println(person.getName() + " tiene " + person.getAge() + " años");
     }
-    
 }
