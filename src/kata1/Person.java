@@ -25,6 +25,5 @@ public class Person {
     public int getAge(){
     	return Period.between(birthdate, fa.now()).getYears();
     	
-    }
-    
+    }   
 }
